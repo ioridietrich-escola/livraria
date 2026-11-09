@@ -1,0 +1,22 @@
+h1 {
+    color:rgb(255, 0, 0);
+    text-align: center;
+}
+
+h2 {
+    color: gray;
+    font-weight: bolder;
+}
+
+p {
+    color: blue;
+}
+
+.card {
+    background-color: brown;
+}
+
+.btn {
+    background-color: black;
+    color: white;
+}
